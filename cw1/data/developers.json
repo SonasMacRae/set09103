@@ -1,0 +1,29 @@
+{"developers":[
+  {
+    "name": "Sony",
+    "founded": "7 May 1946",
+    "countryOfOrigin": "Japan",
+    "ceo": "Kenichiro Yoshida",
+    "infoRef": "https://en.wikipedia.org/wiki/Sony",
+    "description": "Sony began in the wake of World War II. In 1946, Masaru Ibuka started an electronics shop in a department store building in Tokyo. The company started with a capital of ¥190,000 and a total of eight employees. In May 1946, Ibuka was joined by Akio Morita to establish a company called Tokyo Tsushin Kogyo (東京通信工業 Tōkyō Tsūshin Kōgyō) (Tokyo Telecommunications Engineering Corporation). The company built Japan's first tape recorder, called the Type-G. In 1958, the company changed its name to Sony. When Tokyo Tsushin Kogyo was looking for a romanized name to use to market themselves, they strongly considered using their initials, TTK. The primary reason they did not is that the railway company Tokyo Kyuko was known as TTK. The company occasionally used the acronym Totsuko in Japan, but during his visit to the United States, Morita discovered that Americans had trouble pronouncing that name. Another early name that was tried out for a while was Tokyo Teletech until Akio Morita discovered that there was an American company already using Teletech as a brand name. The name Sony was chosen for the brand as a mix of two words: one was the Latin word sonus, which is the root of sonic and sound, and the other was sonny, a common slang term used in 1950s America to call a young boy. In 1950s Japan, sonny boys was a loan word in Japanese, which connoted smart and presentable young men, which Sony founders Akio Morita and Masaru Ibukaconsidered themselves to be...",
+    "photo": "ps_logo.png"
+  },
+  {
+    "name": "Microsoft",
+    "founded": "4 April 1975",
+    "countryOfOrigin": "United States of America",
+    "ceo": "Satya Narayana Nadella",
+    "infoRef": "https://en.wikipedia.org/wiki/Microsoft",
+    "description": "Microsoft Corporation abbreviated as MS) is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. As of 2016, it is the world's largest software maker by revenue, and one of the world's most valuable companies. The word Microsoft is a portmanteau of microcomputer and software. Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Microsoft Windows. The company's 1986 initial public offering (IPO), and subsequent rise in its share price, created three billionaires and an estimated 12,000 millionaires among Microsoft employees...",
+    "photo": "xbox_logo.png"
+  },
+  {
+    "name": "Nintendo",
+    "founded": "23 September 1889",
+    "countryOfOrigin": "Japan",
+    "ceo": "Shuntaro Furukawa",
+    "infoRef": "https://www.statista.com/topics/2284/nintendo/",
+    "description": "Nintendo is a multinational consumer electronics and software company headquartered in Kyoto, Japan. Founded in September 1889 as a small Japanese firm producing handmade playing cards, Nintendo has evolved into one of the largest video games manufacturing companies generating over 4.4 billion U.S dollars in net sales in 2017. The largest share of Nintendo's revenue is generated in the Americas, which contributed around 1.83 billion U.S dollars for the fiscal year of 2017. Nintendo possesses a global workforce of 5,166 employees as of 2017. While its two main rivals in the gaming industry, Microsoft and Sony, rely almost solely on third-party software for their consoles, a significant proportion of Nintendo games are created and developed in-house. The company is known to have created some of the most popular video game franchises in the industry, such as Mario and The Legend of Zelda, and it also is a part owner of The Pokémon Company. One of the newest games in the Mario franchise, Super Mario Odyssey, has sold over 10 million copies as of March 2018...",
+    "photo": "nintendo_logo.jpg"
+  }
+]}

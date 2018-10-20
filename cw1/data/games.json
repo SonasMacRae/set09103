@@ -1,0 +1,112 @@
+{"games":[
+  {
+    "name": "Gran Turismo",
+    "dateOfRelease": "23 December 1997",
+    "developer": "Polys Entertainment",
+    "infoRef": "https://en.wikipedia.org/wiki/Gran_Turismo_(video_game)",
+    "moreInfo": "Gran Turismo is a sim racing video game designed by Kazunori Yamauchi. Gran Turismo was developed by Polys Entertainment and published by Sony Computer Entertainment in 1997 for the PlayStation video game console. The game's development group was established as Polyphony Digital in 1998. After five years of development time, it was well-received publicly and critically, shipping a total of 10.85 million copies worldwide as of March 201 (making it the best-selling PlayStation game), and scoring an average of 95% in GameRankings' aggregate, making it the highest rated racing video game of all-time. Many publications have deemed it one of the greatest video games of all time. The game has started a series, and has spawned over 10 spin-offs and sequels.",
+    "id": "ps1",
+    "unitsShipped": "11,000,000",
+    "genre": "Sim racing"
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas",
+    "dateOfRelease": "26th October 2004",
+    "developer": "Rockstar North",
+    "infoRef": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+    "moreInfo": "Grand Theft Auto: San Andreas is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released on 26 October 2004 for PlayStation 2, and on 7 June 2005 for Microsoft Windows and Xbox. A high definition remastered version received a physical release for both Xbox 360 and PlayStation 3 on 30 June 2015 and 1 December 2015, respectively. It is the seventh title in the Grand Theft Auto series, and the first main entry since 2002's Grand Theft Auto: Vice City. It was released on the same day as the handheld game Grand Theft Auto Advance for Game Boy Advance. On 8 June 2018, the game was added to the Xbox One Backward Compatible library.",
+    "id": "ps2",
+    "unitsShipped": "17,330,000",
+    "genre": "Action-adventure" 
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "dateOfRelease": "17th September 2013",
+    "developer": "Rockstar North",
+    "infoRef": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "moreInfo": "Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released in September 2013 for PlayStation 3 and Xbox 360, in November 2014 for PlayStation 4 and Xbox One, and in April 2015 for Microsoft Windows. It is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas' open countryside and the fictional city of Los Santos, based on Los Angeles.",
+    "id": "ps3",
+    "unitsShipped": "21,300,000",
+    "genre": "Action-adventure" 
+  },
+  {
+    "name": "Uncharted 4: A Thief's End",
+    "dateOfRelease": "",
+    "developer": "Naughty Dog",
+    "infoRef": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End",
+    "moreInfo": "Uncharted 4: A Thief's End is an action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment for PlayStation 4 in May 2016. Following Uncharted 3: Drake's Deception, it is the final Uncharted game to feature protagonist Nathan Drake (portrayed by Nolan North). Drake, retired from fortune hunting with his wife Elena, reunites with his estranged older brother Sam and longtime partner Sully to search for Captain Henry Avery's lost treasure. The game features larger and more open levels than previous Uncharted games; players have more freedom to explore and move in combat, progress through enemy encounters undetected using stealth, and can use vehicles. Sony revealed Uncharted 4 at the North America PlayStation 4 launch event in November 2013. Development was hampered by extensive script changes and reshoots following the departures of lead Uncharted writer and creative director Amy Hennig and director Justin Richmond in March 2014. Bruce Straley and Neil Druckmann, who had directed Naughty Dog's previous game, The Last of Us, became the directors.",
+    "id": "ps4",
+    "unitsShipped": "8,700,000",
+    "genre": "Action-adventure" 
+  },
+  {
+    "name": "Halo 2",
+    "dateOfRelease": "9th November 2004",
+    "developer": "Bungie",
+    "infoRef": "https://en.wikipedia.org/wiki/Halo_2",
+    "moreInfo": "Halo 2 is a 2004 first-person shooter video game developed by Bungie. Released for the Xbox video game console on November 9, 2004, the game is the second installment in the Halo franchise and the sequel to 2001's critically acclaimed Halo: Combat Evolved. A Microsoft Windows version of the game was released on May 31, 2007, developed by an internal team at Microsoft Game Studios known as Hired Gun. The game features a new game engine, as well as using the Havok physics engine; added weapons and vehicles, and new multiplayer maps. The player alternately assumes the roles of the human Master Chief and the alien Arbiter in a 26th-century conflict between the human United Nations Space Command and genocidal Covenant. After the success of Combat Evolved, a sequel was expected and highly anticipated. Bungie found inspiration in plot points and gameplay elements that had been left out of their first game, including multiplayer over the Internet through Xbox Live. Time constraints forced a series of cutbacks in the size and scope of the game, including a cliffhanger ending to the game's campaign mode that left many in the studio dissatisfied. Among Halo 2's marketing efforts was an alternate reality game called -I Love Bees- that involved players solving real-world puzzles.",
+    "id": "xbox",
+    "unitsShipped": "8,000,000",
+    "genre": "First person shooter" 
+  },
+  {
+    "name": "Kinect Adventures",
+    "dateOfRelease": "4th November 2010",
+    "developer": "Good Science Studio",
+    "infoRef": "https://en.wikipedia.org/wiki/Kinect_Adventures!",
+    "moreInfo": "Kinect Adventures! uses full body motion to allow the player to engage in a variety of minigames, all of which feature jump-in, jump-out multiplayer play. Each minigame lasts about three minutes. While most of the minigames are co-operative in two player mode, Reflex Ridge is a competitive game. The game also supports Xbox Live multiplayer. At many points during the game, Kinect's RGB camera would take photos, which were shown to the player(s) and saved to a storage device. These could then be viewed within the game, with the option of uploading these to a private repository on the now defunct KinectShare.com and downloaded to a computer or uploaded to social networking sites.",
+    "id": "xbox360",
+    "unitsShipped": "24,000,000",
+    "genre": "How did this out-sell Halo 3?" 
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "dateOfRelease": "20th December 2017",
+    "developer": "PUBG Corporation",
+    "infoRef": "https://en.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds",
+    "moreInfo": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. The game is based on previous mods that were created by Brendan PlayerUnknown Greene for other games using the film Battle Royale for inspiration, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last player or team standing wins the round. The game was released for Microsoft Windows via Steam's early access beta program in March 2017, with a full release on December 20, 2017. That same month, the game was released by Microsoft Studios for the Xbox One via its Xbox Game Preview program, and officially released in September 2018. In early 2018, it was localized and released by Tencent Games in China, while two mobile versions based on the game for Android and iOS were also released. The game is one of the best-selling of all time, with over fifty million sold across all platforms by June 2018. In addition, the Windows version holds a peak concurrent player count of over three million on Steam, which is an all-time high on the platform.",
+    "id": "xboxone",
+    "unitsShipped": "8,000,000",
+    "genre": "Battle royale" 
+  },
+  {
+    "name": "Super Smash Bros. Melee",
+    "dateOfRelease": "21st November 2001",
+    "developer": "Nintendo",
+    "infoRef": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee",
+    "moreInfo": "Super Smash Bros. Melee[a] is a crossover fighting game developed by HAL Laboratory and published by Nintendo for the GameCube video game console. It is the second game in the Super Smash Bros. series, following the 1999 release of the original game. It was released in Japan and North America in 2001, and in Europe and Australia in 2002. The game features characters from Nintendo video game franchises such as Mario, The Legend of Zelda, Star Fox, and Pokémon. The stages and gameplay modes make references to, or take their designs from these franchises as well. Melee includes all playable characters from the first game in the series on the Nintendo 64 and also adds characters from franchises such as Fire Emblem, of which no games had been released outside Japan at the time. Melee's gameplay system offers an unorthodox approach to the fighting game genre with a counter that measures damage with increasing percentages, representing the knockback the character will experience, rather than a depleting health bar seen in most fighting games. It builds on the first game by adding new gameplay features and playable characters. Following the popularity of its multiplayer gameplay, Melee has been featured in many competitive gaming tournaments, and is one of the most popular fighting games for competitive play. The game received critical acclaim, as well as awards and acknowledgements from gaming publications. It achieved strong sales upon release, and is the GameCube's best-selling game, with more than 7 million copies sold by March 2008. It is considered to be one of the best video games of all time.",
+    "id": "gamecube",
+    "unitsShipped": "7,090,000",
+    "genre": "Fighting" 
+  },
+  {
+    "name": "Wii Sports",
+    "dateOfRelease": "19th November 2006",
+    "developer": "Nintendo EAD",
+    "infoRef": "Wii Sports[a] is a 2006 sports video game developed and published by Nintendo for the Wii video game console. The game was released in North America along with the Wii on November 19, 2006, and was released in Japan, Australia, and Europe the following month. It was included as a pack-in game with the console in all territories except Japan and South Korea, making it the first sports game included with the launch of a Nintendo system since Mario's Tennis for the Virtual Boy in 1995. Wii Sports is available on its own as part of the Nintendo Selects collection of games. The game is a collection of five sports simulations, designed to demonstrate the motion-sensing capabilities of the Wii Remote. The five sports included are tennis, baseball, bowling, golf, and boxing. Players use the Wii Remote to mimic actions performed in real-life sports, such as swinging a tennis racket. The rules for each game are simplified to make them more accessible to new players. The game also features training and fitness modes that monitor players' progress in the sports.",
+    "moreInfo": "https://en.wikipedia.org/wiki/Wii_Sports",
+    "id": "wii",
+    "unitsShipped": "82,850,000",
+    "genre": "Garbage" 
+  },
+  {
+    "name": "Mario Kart 8",
+    "dateOfRelease": "29th May 2014",
+    "developer": "Nintendo",
+    "infoRef": "https://en.wikipedia.org/wiki/Mario_Kart_8",
+    "moreInfo": "Mario Kart 8 is a kart racing video game and the eighth major installment in the Mario Kart series, developed and published by Nintendo for their Wii U home video game console. The game was announced at E3 2013 and released worldwide in May 2014. Like in other games in the series, in Mario Kart 8, players control characters from the Mario franchise and participate in kart racing on various race tracks, using a variety of items to hinder opponents or gain advantages in the race. While incorporating game mechanics originally featured in earlier Mario Kart games, Mario Kart 8 introduces anti-gravity sections that allow players to drive on walls or ceilings, in addition to allowing them to bump into one another for a short boost. The game features single-player and multiplayer gamemodes, including online via the Nintendo Network. Mario Kart 8 was a critical and commercial success upon its release, and is the best-selling Wii U game, with over eight million copies sold worldwide. The game continued to receive post-release patches and downloadable content, including additional characters, vehicles and tracks, and support for Nintendo's Amiibo line of figurines. An enhanced port for the Nintendo Switch, titled Mario Kart 8 Deluxe, was released worldwide in April 2017. It was both a critical and commercial success, selling over ten million copies worldwide by June 2018, ranking it among the system's best-selling games.",
+    "id": "wiiu",
+    "unitsShipped": "8,420,000",
+    "genre": "Racing" 
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "dateOfRelease": "27th October 2017",
+    "developer": "Nintendo",
+    "infoRef": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "moreInfo": "Super Mario Odyssey is a platform game published by Nintendo for the Nintendo Switch on October 27, 2017. An entry in the Super Mario series, it follows Mario and Cappy, a spirit that turns into Mario's hat and allows him to possess other characters and objects, as they journey across various worlds to save Princess Peach from his nemesis Bowser, who plans to forcibly marry her. In contrast to the linear gameplay of prior entries, the game returns to the primarily open-ended, exploration-based gameplay featured in Super Mario 64 and Super Mario Sunshine. The game was developed by Nintendo's Entertainment Planning & Development division, and began development following the release of Super Mario 3D World in 2013. Various ideas were suggested during development, and to incorporate them all, the team decided to employ a sandbox-style of gameplay. Unlike previous installments such as New Super Mario Bros. and Super Mario 3D World, which were aimed at a casual audience, the team designed Super Mario Odyssey to appeal to the series' core fans. The game also features a vocal theme song, Jump Up, Super Star!, a first for the series. Super Mario Odyssey was released worldwide on October 27, 2017. It received universal acclaim and is the Switch's bestseller, with 11.17 million copies sold by June 2018. Critics lauded the game's inventiveness and originality, with many calling it one of the best in the series. It was nominated for and won numerous accolades, including for Game of the Year.",
+    "id": "switch",
+    "unitsShipped": "11,170,000",
+    "genre": "Platformer" 
+  }
+]}

@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/navbar.css') }}">
+</head>
+<body>
+  <ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/developer/sony">Sony</a></li>
+  <li><a href="/developer/microsoft">Microsoft</a></li>
+  <li><a href="/developer/nintendo">Nintendo</a></li>
+  <li><a href="/allconsoles/">All consoles</a></li>
+  </ul>
+  {% block content %} {% endblock %}
+</body>
+</html>
+

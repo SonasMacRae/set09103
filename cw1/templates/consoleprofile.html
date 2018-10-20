@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/display_consoles.css') }}">
+</head>
+<body>
+{% extends "navbar.html" %}
+{% block content %}
+<div class="title">
+  {% for element in console %}
+  <h1>{{ element["developer"] }} {{ element["name"] }}</h1>
+  <p>Games consoles.. They're like computers built to play games, but they aren't gaming computers...</p>
+  <p>I mean technically they are gaming computers but we don't call them that</p>
+</div>
+<div class="console_info">
+  <a href={{ url_for('developer', search=element["developer"]) }}><button class="backToDev">Back to {{ element["developer"] }}</button></a>
+  <h3>Console profile</h3>
+  <b><p>Console title:</b> {{ element["name"] }}</p>
+  <b><p>Developer:</b>
+  <a href= {{ url_for('developer', search=element["developer"]) }}>{{ element["developer"] }}</p></a>
+  <b><p>Release date:</b> {{ element["releaseDate"] }}</p>
+  <b><p>Units sold (as of late 2018):</b> {{ element["unitsSold"] }}</p>
+  <b><p>System memory:</b> {{ element["memory"] }}</p>
+  <b><p>System storage:</b> {{ element["storage"] }}</p>
+  <b><p>Sonas's rating (the person who made this website):</b> {{ element["sonasR"] }}</p>
+  <b><p>Have a read at this interesting text: </b>{{ element["moreInfo"] }}</p>
+  <b><p>More info at: </b> <a href={{ element["moreInfoRef"] }}>{{ element["moreInfoRef"] }}</a></p>
+  <hr></hr>
+  <h3>Best selling game for the {{ element["name"] }} </h3>
+  {% endfor %}
+  {% for element in game %}
+    <b><p>Game name: </b>{{ element["name"] }}</p>
+    <b><p>Genre: </b>{{ element["genre"] }}</p>
+    <b><p>Developer: </b>{{ element["developer"] }}</p>
+    <b><p>Units sold: </b>{{ element["unitsShipped"] }}</p>
+    <b><p>Some more tasty information: </b>{{ element["moreInfo"] }}</p>
+    <b><p>Read even more info: </b><a href={{ element["infoRef"] }}>{{ element["infoRef"] }}</a></p>
+  <hr></hr>
+  {% endfor %}
+  </div>
+{% endblock %}}
+</body>

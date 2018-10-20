@@ -1,0 +1,27 @@
+<!doctype html>
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/display_consoles.css') }}">
+</head>
+<body>
+{% extends "navbar.html" %}
+{% block content %}
+<div class="title">
+<h1>Masterchiefs collection</h1>
+<h4>-An online directory of games consoles-</h4>
+<h5>Click on a developers card below or click an option from the navigation bar above to begin</h5>
+</div>
+<div class="grid-container">
+    {% for element in developers %}
+    <a href={{ 'developer/' + element["name"] }} style="text-decoration: none"><div class="card">
+    <img src= {{ url_for('static', filename='images/' + element["photo"]) }} style="width:100%" >
+
+      <div class="container">
+        <hr></hr>
+        <h3>{{ element["name"] }}</h3>
+        <p>Founded: {{ element["founded"] }}</p>
+      </div>
+    </div></a>
+    {% endfor %}
+  </div>
+{% endblock %}}
+</body>

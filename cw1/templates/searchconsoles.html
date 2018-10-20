@@ -1,0 +1,39 @@
+<!doctype html>
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/display_consoles.css') }}">
+</head>
+<body>
+{% extends "navbar.html" %}
+{% block content %}
+<div class="title">
+    <h1>Here are all of the games consoles</h1>
+    <p>(Use the drop-down menu on the left to filter through them if you get lost)</p>
+</div>
+
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">Filter</button>
+  <div class="dropdown-content">
+    <a href={{ url_for('consoles', search='sony') }}>Sony</a>
+    <a href={{ url_for('consoles', search='microsoft') }}>Microsoft</a>
+    <a href={{ url_for('consoles', search='nintendo') }}>Nintendo</a>
+    <a href={{ url_for('all') }}>All consoles</a>
+  </div>
+</div>
+
+<div class="grid-container">
+    {% for element in consoleList %}
+   <a href= {{' ../console/' + element["ref"] }} style="text-decoration: none"><div class="card">
+    <img src= {{ url_for('static', filename='images/' + element["photo"]) }} style="width:100%">
+      <div class="container">
+        <hr></hr>
+        <h3>{{ element["name"] }}</h3>
+       <b><p>Developer: </b>{{ element["developer"] }}</p>
+      </div>
+    </div></a>
+    {% endfor %}
+  </div>
+{% endblock %}}
+</body>

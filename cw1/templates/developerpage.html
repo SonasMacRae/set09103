@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/display_consoles.css') }}">
+</head>
+<body>
+{% extends "navbar.html" %}
+{% block content %}
+<div class="title">
+  {% for element in developer %}
+  <h1>{{ element["name"] }}</h1>
+  <h4>Developer profile</h4>
+</div>
+<div class="console_info">
+  <b><h3>Company name: </b> {{ element["name"] }} </h3>
+  <b><p>Founded: </b> {{ element["founded"] }}</p>
+  <b><p>Country of origin: </b> {{ element["countryOfOrigin"] }}</p>
+  <b><p>Current CEO (late 2018): </b>{{ element["ceo"] }}</p>
+  <b><p>Here's some info you probably won't read: </b>{{ element["description"] }}</p>
+  <b><p>More info: </b><a href= {{ element["infoRef"] }}>{{ element["infoRef"] }}</a></p>
+  <hr></hr>
+  <b><h3>Consoles by this company: </b></h3>
+</div>
+{% endfor %}
+<div class="grid-container">
+  {% for element in consoleList %}
+  <a href= {{ url_for('console',search=element["ref"]) }} style="text-decoration: none"><div class="card">
+    <img src= {{ url_for('static', filename='images/' + element["photo"]) }} style="width:100%" >
+    <div class="container">
+     <hr></hr>
+     <h3>{{ element["name"] }}</h3>
+     <b><p>Developer: </b>{{ element["developer"] }}</p>
+    </div>
+</div></a>
+{% endfor %}
+{% endblock %}}
+</body>
